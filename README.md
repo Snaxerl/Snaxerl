@@ -42,4 +42,4 @@ Repositories are currently private.
 <div align="center">
 <img  src="https://media.giphy.com/media/wqJo5SjNfAdTSdpiPd/giphy.gif" width="100"/>
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Snaxerl.png" alt="TryHackMe">
+
