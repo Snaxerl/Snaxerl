@@ -34,7 +34,7 @@ Repositories are currently private.
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" title="Apache" **alt="Apache" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" **alt="Debian" width="40" height="40"/>
-  
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg)" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
 </div>
 <div align="center">
 <img  src="https://media.giphy.com/media/wqJo5SjNfAdTSdpiPd/giphy.gif" width="100"/>
