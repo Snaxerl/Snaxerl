@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LscL9lFvIJ9qnIc8QA/giphy.gif" width="100"/>
 </div>
-Some repositories are currently private.
+Most repositories are currently private.
 <div id="badges">
   </br>
   </br>
